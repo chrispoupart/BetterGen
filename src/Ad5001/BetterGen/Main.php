@@ -58,7 +58,7 @@ class Main extends PluginBase implements Listener {
 	}
 
 	/**
-	 * Called when the plugin enales
+	 * Called when the plugin enables
 	 *
 	 * @return void
 	 */
